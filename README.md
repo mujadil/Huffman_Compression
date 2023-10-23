@@ -1,4 +1,17 @@
-# Huffman_Compression
+# Huffman_Compression (C++)
+This huffman algorithmn is for contribtion in hackoctoberfest
+This C++ project demonstrates the implementation of the Huffman coding algorithm for text compression. Huffman coding is a lossless data compression technique that assigns variable-length codes to characters based on their frequencies, resulting in efficient data compression.
+
+This README provides an overview of the project, its prerequisites, usage instructions, the structure of the code, features, sample usage, and details on contributing and licensing.
+
+File Structure:
+The project is organized as follows:
+
+Main.cpp: The main C++ source code for compression.
+Testfile.txt: An example input text file for testing.
+CommpressedFile.txt The compressed output of the sample input file.
+pque.cpp: source file used for pirotey queues and calclute frequencies.
+Huff.cpp: source file for huffman implemtation
 Huffman Coding is a fundamental data compression technique used in various applications to reduce the size of data files efficiently. This Data Structures and Algorithms (DSA) project aims to implement the Huffman Coding algorithm from scratch, demonstrating a deep understanding of the underlying concepts in data compression.
 
 Project Objectives:
@@ -32,4 +45,3 @@ Knowledge of bitwise operations for efficient encoding and decoding.
 Ability to analyze and optimize the performance of a compression algorithm.
 Presentation and documentation skills to effectively convey project details and findings.
 
-This DSA project on Huffman Coding provides an excellent opportunity to delve deep into the world of data compression, sharpen coding skills, and gain a deeper understanding of fundamental computer science concepts. It also showcases your ability to design and implement complex algorithms, making it a valuable addition to your portfolio for educational and professional purposes.
